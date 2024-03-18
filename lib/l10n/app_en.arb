@@ -1,0 +1,23 @@
+{
+  "addNewTask": "Add New Task",
+  "title": "Enter Your Task",
+  "description": "Description",
+  "select": "Selected Date",
+  "add_task": "Add task",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "mode": "Mode",
+  "light": "Light",
+  "dark": "Dark",
+  "delete": "Delete",
+  "edit": "Edit",
+  "edit_task": "Edit Task",
+  "savechange": "Save Changes",
+  "please_enter_task_title": "Please Enter Title",
+  "please_enter_task_description": "Please Enter Description",
+  "cancel" : "Cancel",
+  "yes" : "Yes",
+  "sure_Add_task" : "Are you sure Add task",
+  "loading" : "Loading...."
+}

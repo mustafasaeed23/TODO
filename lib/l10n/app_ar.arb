@@ -1,0 +1,24 @@
+{
+  "addNewTask" : "اضافة مهمة جديده",
+  "title": "عنوان",
+  "description" : "وصف",
+  "select" : "التاريخ ",
+  "add_task" : "اضافة مهمة",
+  "language" : "اللغة",
+  "english": "انجليزي",
+  "arabic" : "عربى",
+  "mode" : "وضع",
+  "light" : "فاتح",
+  "dark" : "داكن",
+  "delete" : "حذف",
+  "edit": "تعديل",
+  "edit_task" :"تعديل مهمة",
+  "savechange" : "حفظ التغيرات",
+  "please_enter_task_title": "من فضلك ادخل عنوان",
+  "please_enter_task_description": "من فضلك ادخل وصف",
+  "cancel" : "الغاء",
+  "yes" : "نعم",
+  "sure_Add_task" : "هل متاكد من اضافة هذة المهمة",
+   "loading" : "جاري التحميل..."
+  }
+
